@@ -1,0 +1,14 @@
+{
+  "hidden_size": 128,
+  "max_length": 50,
+  "recent": 3,
+  "alpha": 0.25,
+  "tau": 0.5,
+  "dropout": 0.3,
+  "learning_rate": 0.0005,
+  "batch_size": 128,
+  "epochs": 40,
+  "patience": 6,
+  "clip_grad": 5.0,
+  "item_chunk": 2048
+}
